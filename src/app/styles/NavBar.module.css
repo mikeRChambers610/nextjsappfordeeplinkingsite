@@ -1,0 +1,28 @@
+/* styles/NavBar.module.css */
+.navBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px 20px;
+  width: 100%;
+  background-color: #e4f1fa;
+}
+
+.linkStyle {
+  padding: 10px;
+  margin-right: 20px;
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.activeLinkStyle {
+  padding: 10px;
+  margin-right: 20px;
+  color: #0288D1;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: underline;
+}
