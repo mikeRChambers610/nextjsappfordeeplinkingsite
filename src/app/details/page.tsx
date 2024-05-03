@@ -10,7 +10,7 @@ export default function Details() {
                 <meta name="description" content="Get in touch with us!" />
             </Head>
             <h1>Contact Us</h1>
-            <p>If you need help, please email us.</p>
+            <p>If you need help, please email us at support@eventwithfriends.com.</p>
         </div>
     );
 }
