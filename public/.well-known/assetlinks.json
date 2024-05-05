@@ -1,9 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.everythingappsllc.eventwithfriends",
-      "sha256_cert_fingerprints": ["C2:CB:0A:23:5A:15:A6:32:49:4E:51:C6:37:DC:D7:A6:18:6E:BB:6C:F5:34:B2:7A:5F:E5:C3:D9:06:14:F1:89"]
-    }
-  }]
-  
