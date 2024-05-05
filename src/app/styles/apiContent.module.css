@@ -1,0 +1,12 @@
+/* src/styles/apiContent.module.css */
+.apiContainer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px; /* Provide sufficient space from other content */
+}
+
+.apiImage {
+    max-width: 100%;
+    height: auto;
+    margin: auto; /* Centering the image */
+}

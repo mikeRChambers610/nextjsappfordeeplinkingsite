@@ -1,0 +1,22 @@
+{
+
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+ 
+        "appID": "GW6H5C43VA.com.everthingappsllc.eventwithfriends",
+   
+        "paths": ["/events/*"]
+      }
+    ]
+  },
+ 
+  "activitycontinuation": {
+    "apps": ["GW6H5C43VA.com.everthingappsllc.eventwithfriends"]
+  },
+  
+  "webcredentials": {
+    "apps": ["GW6H5C43VA.com.everthingappsllc.eventwithfriends"]
+  }
+}
