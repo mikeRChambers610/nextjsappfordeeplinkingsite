@@ -13,7 +13,7 @@ const EventPage: React.FC<{ htmlContent: string }> = ({ htmlContent }) => {
   return <div dangerouslySetInnerHTML={{ __html: htmlContent }} />;
 };
 
-// Function to fetch event data from  an API
+// Function to fetch event data froman API
 async function fetchData(groupID: string, sortID: string): Promise<string> {
   const url = `https://q0ekxtr8l3.execute-api.us-east-1.amazonaws.com/v1/events?groupID=${groupID}&sortID=${sortID}`;
   console.log(`Fetching data for groupID: ${groupID}, sortID: ${sortID}`);
