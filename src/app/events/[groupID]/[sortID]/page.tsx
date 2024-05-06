@@ -30,7 +30,7 @@ async function fetchData(groupID: string, sortID: string): Promise<string> {
   return htmlContent;
 }
 
-// Fetch and render the page on the server side using the HTML content
+// Fetch and render the page on the server side using the HTML content 
 export default async function ServerRenderedEventPage({ params }: { params: RouteParams }) {
   const { groupID, sortID } = params;
 
