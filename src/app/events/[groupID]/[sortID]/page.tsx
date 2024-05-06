@@ -26,7 +26,7 @@ async function fetchData(groupID: string, sortID: string): Promise<string> {
   }
 
   const htmlContent = await response.text();
-  console.log(`Received HTML content for groupID: ${groupID}, sortID: ${sortID}`);
+  console.log(`Received HTMLcontent for groupID: ${groupID}, sortID: ${sortID}`);
   return htmlContent;
 }
 
